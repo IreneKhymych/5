@@ -1,6 +1,0 @@
-<task>
-  <plot>
-    <expr>x**3 - 2*x</expr>
-    <range>-5,5</range>
-  </plot>
-</task>
