@@ -9,7 +9,7 @@ def basic_operations(a, b, op):
     elif op == '*':
         return a * b
     elif op == '/':
-        return a / b if b != 0 else "Ділення на нуль!"
+        return a / b if b != 0 else "Ділення на нуль"
     else:
         return "Невідома операція"
 
