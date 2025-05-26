@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<task>
-    <operation>plot</operation>
-    <function>x**2</function>
-    <xmin>-10</xmin>
-    <xmax>10</xmax>
-</task>
