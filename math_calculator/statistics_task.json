@@ -1,8 +1,0 @@
-{
-    "operation": "statistics",
-    "metrics": [
-        "mean",
-        "median",
-        "mode"
-    ]
-}
